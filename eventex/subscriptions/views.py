@@ -1,0 +1,2 @@
+def subscribe(request):
+    pass
