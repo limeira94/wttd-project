@@ -1,0 +1,8 @@
+langague: python
+python:
+  - "3.10"
+install:
+  - cp contrib/env-sample .env
+  - pip install -q -r requirements.txt
+script:
+  - python manage.py test
