@@ -4,3 +4,5 @@
 *pyc
 __pycache__
 staticfiles
+staticfiles
+.ipynb_checkpoints/
